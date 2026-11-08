@@ -92,6 +92,6 @@ Developing the web version helped me move beyond arranging screens towards expla
 
 - [Privacy-label iterations](Privacy_Label_Iterations.md)
 - [Proposed web evaluation tasks](Web_Evaluation_Tasks.md)
-- [References](../Reference/References.md)
+- [References](../References.md)
 
 Source basis: local `cctv-prototype` code and documentation; A1.3 report Sections 3–5; the author's confirmed weekly contribution record.
