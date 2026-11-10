@@ -1,16 +1,16 @@
-# Complete References — A1.1 to A1.3
+# References — A1.1 to A1.3
 
-This consolidated list covers the references recorded across the A1.1 Problem Identification, A1.2 Interim Critique and A1.3 Final Proposal reports. Repeated works appear once, with their report stages listed beneath each entry. Academic publications, government guidance, manufacturer information and historical reporting are retained because all were part of the documented evidence base.
+This consolidated list covers sources retained from the A1.1 Problem Identification, A1.2 Interim Critique and A1.3 Final Proposal reports. Repeated works appear once, with their report stages listed beneath each entry. Academic publications, government guidance, manufacturer information and historical reporting are retained as part of the documented evidence base.
 
 ## Coverage
 
-| Report | Entries in its main reference list | Source file |
+| Report | Entries retained from its main reference list | Source file |
 | --- | --- | --- |
-| A1.1 | 10 | `A1/Studio3-Proposal-2026-Problem-Ann.docx` |
+| A1.1 | 9 | `A1/Studio3-Proposal-2026-Problem-Ann.docx` |
 | A1.2 | 14 | `A1-2/Studio3-Proposal-2026-Problem-ANN.docx` |
 | A1.3 | 12 | `A1-3/Studio3-Proposal-2026-Final-ANN.docx` |
 
-The main lists contain **30 distinct sources after deduplication**. Two additional eufy sources cited in A1.3 Appendix J are also included, bringing the consolidated report-related total to **32**. Their full entries are recoverable from the A1.3 v2 document. Website-only supporting links follow separately and are not included in this count.
+The sources retained from the main lists include **29 distinct sources after deduplication**. Two additional eufy sources cited in A1.3 Appendix J are also included, bringing the consolidated report-related total to **31**. Their full entries are recoverable from the A1.3 v2 document. Website-only supporting links follow separately and are not included in this count.
 
 These are sources used in the team reports. The list does not imply that I independently located or analysed every source. It also does not treat every downloaded PDF as a cited publication.
 
@@ -28,119 +28,115 @@ These are sources used in the team reports. The list does not imply that I indep
 
    **Used in:** A1.2.
 
-4. Department of Home Affairs Website. (n.d.). Department of Home Affairs Website. Retrieved 25 August 2026, from <https://www.homeaffairs.gov.au>
-
-   **Used in:** A1.1.
-
-5. Emami-Naeini, P., Agarwal, Y., Cranor, L. F., & Hibshi, H. (2020). Ask the Experts: What Should Be on an IoT Privacy and Security Label? 2020 IEEE Symposium on Security and Privacy (SP), 447–464. <https://doi.org/10.1109/SP40000.2020.00043>
+4. Emami-Naeini, P., Agarwal, Y., Cranor, L. F., & Hibshi, H. (2020). Ask the Experts: What Should Be on an IoT Privacy and Security Label? 2020 IEEE Symposium on Security and Privacy (SP), 447–464. <https://doi.org/10.1109/SP40000.2020.00043>
 
    **Used in:** A1.2, A1.3.
 
-6. Emami-Naeini, P., Dixon, H., Agarwal, Y., & Cranor, L. F. (2019). Exploring How Privacy and Security Factor into IoT Device Purchase Behavior. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, CHI ’19, 1–12. <https://doi.org/10.1145/3290605.3300764>
+5. Emami-Naeini, P., Dixon, H., Agarwal, Y., & Cranor, L. F. (2019). Exploring How Privacy and Security Factor into IoT Device Purchase Behavior. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, CHI ’19, 1–12. <https://doi.org/10.1145/3290605.3300764>
 
    **Used in:** A1.2.
 
-7. eufy. (n.d.-a). Indoor Cam E30. Retrieved October 27, 2026, from <https://www.eufy.com/au/products/indoor-cam-e30>
+6. eufy. (n.d.-a). Indoor Cam E30. Retrieved October 27, 2026, from <https://www.eufy.com/au/products/indoor-cam-e30>
 
    **Used in:** A1.3 (Appendix J; bibliography entry in v2).
 
-8. eufy. (n.d.-b). Your privacy is our priority. Retrieved October 27, 2026, from <https://www.eufy.com/au/privacy-commitment>
+7. eufy. (n.d.-b). Your privacy is our priority. Retrieved October 27, 2026, from <https://www.eufy.com/au/privacy-commitment>
 
    **Used in:** A1.3 (Appendix J; bibliography entry in v2).
 
-9. Farke, F. M., Balash, D. G., Golla, M., Dürmuth, M., & Aviv, A. J. (2021). Are Privacy Dashboards Good for End Users? Evaluating User Perceptions and Reactions to Google’s My Activity (Extended Version). arXiv.Org. <https://www.proquest.com/docview/2535628918?pq-origsite=primo&searchKeywords=Are%20privacy%20dashboards%20good%20for%20end%20users%3F%20Evaluating%20user%20perceptions%20and%20reactions%20to%20Google%E2%80%99s%20My%20Activity.%20In%20Proceedings%20of%20the%2030th%20USENIX%20Security%20Symposium%20(pp.%20483%E2%80%93500).&sourcetype=Working%20Papers>
+8. Farke, F. M., Balash, D. G., Golla, M., Dürmuth, M., & Aviv, A. J. (2021). Are Privacy Dashboards Good for End Users? Evaluating User Perceptions and Reactions to Google’s My Activity (Extended Version). arXiv.Org. <https://www.proquest.com/docview/2535628918?pq-origsite=primo&searchKeywords=Are%20privacy%20dashboards%20good%20for%20end%20users%3F%20Evaluating%20user%20perceptions%20and%20reactions%20to%20Google%E2%80%99s%20My%20Activity.%20In%20Proceedings%20of%20the%2030th%20USENIX%20Security%20Symposium%20(pp.%20483%E2%80%93500).&sourcetype=Working%20Papers>
 
    **Used in:** A1.2, A1.3.
 
-10. Feng, Y., Yao, Y., & Sadeh, N. (2021). A Design Space for Privacy Choices: Towards Meaningful Privacy Control in the Internet of Things. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 1–16. <https://doi.org/10.1145/3411764.3445148>
+9. Feng, Y., Yao, Y., & Sadeh, N. (2021). A Design Space for Privacy Choices: Towards Meaningful Privacy Control in the Internet of Things. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 1–16. <https://doi.org/10.1145/3411764.3445148>
 
    **Used in:** A1.2, A1.3.
 
-11. FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers from Taking Control of Users’ Cameras. (2023, May 31). Federal Trade Commission. <https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users>
+10. FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers from Taking Control of Users’ Cameras. (2023, May 31). Federal Trade Commission. <https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users>
 
    **Used in:** A1.1.
 
-12. Geeng, C., & Roesner, F. (2019). Who’s In Control?: Interactions In Multi-User Smart Homes. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1–13. <https://doi.org/10.1145/3290605.3300498>
+11. Geeng, C., & Roesner, F. (2019). Who’s In Control?: Interactions In Multi-User Smart Homes. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1–13. <https://doi.org/10.1145/3290605.3300498>
 
    **Used in:** A1.3.
 
-13. Lovejoy, B. (2022, December 21). Eufy camera security breach admission leaves many questions unanswered. <https://9to5mac.com/2022/12/21/eufy-camera-security-breach/>
+12. Lovejoy, B. (2022, December 21). Eufy camera security breach admission leaves many questions unanswered. <https://9to5mac.com/2022/12/21/eufy-camera-security-breach/>
 
    **Used in:** A1.3.
 
-14. Lovejoy, B. (2023, February 1). Anker admits to lying about Eufy security camera encryption; describes future plans. <http://9to5mac.com/2023/02/01/eufy-security-camera-encryption/>
+13. Lovejoy, B. (2023, February 1). Anker admits to lying about Eufy security camera encryption; describes future plans. <http://9to5mac.com/2023/02/01/eufy-security-camera-encryption/>
 
    **Used in:** A1.3.
 
-15. Managing your Ring account and privacy settings. (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/t5i23/managing-your-ring-account-and-privacy-settings?redirect=true>
+14. Managing your Ring account and privacy settings. (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/t5i23/managing-your-ring-account-and-privacy-settings?redirect=true>
 
    **Used in:** A1.1.
 
-16. Manandhar, S., Kafle, K., Andow, B., & Nadkarni, A. (2022). Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage.
+15. Manandhar, S., Kafle, K., Andow, B., & Nadkarni, A. (2022). Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage.
 
    **Used in:** A1.3.
 
-17. Marky, K., Prange, S., Mühlhäuser, M., & Alt, F. (2021). Roles Matter! Understanding Differences in the Privacy Mental Models of Smart Home Visitors and Residents. 20th International Conference on Mobile and Ubiquitous Multimedia, 108–122. <https://doi.org/10.1145/3490632.3490664>
+16. Marky, K., Prange, S., Mühlhäuser, M., & Alt, F. (2021). Roles Matter! Understanding Differences in the Privacy Mental Models of Smart Home Visitors and Residents. 20th International Conference on Mobile and Ubiquitous Multimedia, 108–122. <https://doi.org/10.1145/3490632.3490664>
 
    **Used in:** A1.3.
 
-18. OAIC. (2023, March 10). Part 5: Notice and consent. OAIC. <https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-review-issues-paper-submission/part-5-notice-and-consent>
+17. OAIC. (2023, March 10). Part 5: Notice and consent. OAIC. <https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-review-issues-paper-submission/part-5-notice-and-consent>
 
    **Used in:** A1.1.
 
-19. Ring Control Centre Information. (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/rj2pk/Ring-Control-Center-Information>
+18. Ring Control Centre Information. (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/rj2pk/Ring-Control-Center-Information>
 
    **Used in:** A1.1.
 
-20. Samavi, R., & Consens, M. P. (2018). Publishing privacy logs to facilitate transparency and accountability. Journal of Web Semantics, 50, 1–20. <https://doi.org/10.1016/j.websem.2018.02.001>
+19. Samavi, R., & Consens, M. P. (2018). Publishing privacy logs to facilitate transparency and accountability. Journal of Web Semantics, 50, 1–20. <https://doi.org/10.1016/j.websem.2018.02.001>
 
    **Used in:** A1.2.
 
-21. Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2015). A Design Space for Effective Privacy Notices. 1–17. <https://www.usenix.org/conference/soups2015/proceedings/presentation/schaub>
+20. Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2015). A Design Space for Effective Privacy Notices. 1–17. <https://www.usenix.org/conference/soups2015/proceedings/presentation/schaub>
 
    **Used in:** A1.2, A1.3.
 
-22. Tabassum, M., Kosinski, T., & Lipford, H. R. (n.d.). ‘I don’t own the data’: End User Perceptions of Smart Home Device Data Practices and Risks.
+21. Tabassum, M., Kosinski, T., & Lipford, H. R. (n.d.). ‘I don’t own the data’: End User Perceptions of Smart Home Device Data Practices and Risks.
 
    **Used in:** A1.1.
 
-23. Update on Investigation of 2/16/24 Security Issue—Wyze News. (2024, February 19). Wyze Forum. <https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002>
+22. Update on Investigation of 2/16/24 Security Issue—Wyze News. (2024, February 19). Wyze Forum. <https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002>
 
    **Used in:** A1.1.
 
-24. Updated Official Statement—Archived. (2021, May 17). Eufy Community. <https://community.eufy.com/t/updated-official-statement>
+23. Updated Official Statement—Archived. (2021, May 17). Eufy Community. <https://community.eufy.com/t/updated-official-statement>
 
    **Used in:** A1.1.
 
-25. Urquhart, L., Lodge, T., & Crabtree, A. (2019). Demonstrably doing accountability in the Internet of Things. International Journal of Law and Information Technology, 27(1), 1–27. <https://doi.org/10.1093/ijlit/eay015>
+24. Urquhart, L., Lodge, T., & Crabtree, A. (2019). Demonstrably doing accountability in the Internet of Things. International Journal of Law and Information Technology, 27(1), 1–27. <https://doi.org/10.1093/ijlit/eay015>
 
    **Used in:** A1.2.
 
-26. Using video end-to-end encryption (E2EE). (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee?redirect=true>
+25. Using video end-to-end encryption (E2EE). (n.d.). Retrieved 25 August 2026, from <https://ring.com/au/en/support/articles/7e3lk/using-video-end-to-end-encryption-e2ee?redirect=true>
 
    **Used in:** A1.1.
 
-27. Wang, Z., Yan, Y., Yan, Y., Chen, H., & Yang, Z. (2022). CamShield: Securing Smart Cameras through Physical Replication and Isolation. 3467–3484. <https://www.usenix.org/conference/usenixsecurity22/presentation/wang-zhiwei>
+26. Wang, Z., Yan, Y., Yan, Y., Chen, H., & Yang, Z. (2022). CamShield: Securing Smart Cameras through Physical Replication and Isolation. 3467–3484. <https://www.usenix.org/conference/usenixsecurity22/presentation/wang-zhiwei>
 
    **Used in:** A1.2.
 
-28. Windl, M., Schlegel, M., & Mayer, S. (2024). Exploring Users’ Mental Models and Privacy Concerns During Interconnected Interactions. Proceedings of the ACM on Human-Computer Interaction, 8(MHCI), 1–23. <https://doi.org/10.1145/3676504>
+27. Windl, M., Schlegel, M., & Mayer, S. (2024). Exploring Users’ Mental Models and Privacy Concerns During Interconnected Interactions. Proceedings of the ACM on Human-Computer Interaction, 8(MHCI), 1–23. <https://doi.org/10.1145/3676504>
 
    **Used in:** A1.2.
 
-29. Windl, M., Thalhammer, P., Müller, D., Schmidt, A., & Feger, S. S. (2025). PrivacyHub: A Functional Tangible and Digital Ecosystem for Interoperable Smart Home Privacy Awareness and Control. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1–15. <https://doi.org/10.1145/3706598.3713517>
+28. Windl, M., Thalhammer, P., Müller, D., Schmidt, A., & Feger, S. S. (2025). PrivacyHub: A Functional Tangible and Digital Ecosystem for Interoperable Smart Home Privacy Awareness and Control. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1–15. <https://doi.org/10.1145/3706598.3713517>
 
    **Used in:** A1.3.
 
-30. Yao, Y., Basdeo, J. R., McDonough, O. R., & Wang, Y. (2019). Privacy perceptions and designs of bystanders in smart homes. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW). <https://doi.org/10.1145/3359161>
+29. Yao, Y., Basdeo, J. R., McDonough, O. R., & Wang, Y. (2019). Privacy perceptions and designs of bystanders in smart homes. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW). <https://doi.org/10.1145/3359161>
 
    **Used in:** A1.2.
 
-31. Zeng, E., & Roesner, F. (2019). Understanding and Improving Security and Privacy in Multi-User Smart Homes: A Design Exploration and In-Home User Study. 159–176. <https://www.usenix.org/conference/usenixsecurity19/presentation/zeng>
+30. Zeng, E., & Roesner, F. (2019). Understanding and Improving Security and Privacy in Multi-User Smart Homes: A Design Exploration and In-Home User Study. 159–176. <https://www.usenix.org/conference/usenixsecurity19/presentation/zeng>
 
    **Used in:** A1.3.
 
-32. Zheng, S., Apthorpe, N., Chetty, M., & Feamster, N. (2018). User Perceptions of Smart Home IoT Privacy. Proceedings of the ACM on Human-Computer Interaction. <https://dl.acm.org/doi/10.1145/3274469>
+31. Zheng, S., Apthorpe, N., Chetty, M., & Feamster, N. (2018). User Perceptions of Smart Home IoT Privacy. Proceedings of the ACM on Human-Computer Interaction. <https://dl.acm.org/doi/10.1145/3274469>
 
    **Used in:** A1.2, A1.3.
 
