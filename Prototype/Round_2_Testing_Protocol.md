@@ -1,6 +1,6 @@
 # Round 2 — Privacy Label Testing Protocol
 
-Source: `A1-2/Round_2_Privacy_Label_Testing_Protocol_EN.docx`. This is a Markdown conversion of the existing English protocol. Blank fields are intentional. It documents planned procedure, not evidence that every instruction was followed in every session. Product values and ranges refer to that study version.
+Source: `Ring_Privacy_Prototype_ABC_Word.pdf`. This is a Markdown conversion of the existing English protocol. Blank fields are intentional. It documents planned procedure, not evidence that every instruction was followed in every session. Product values and ranges refer to that study version.
 
 Round 2 CCTV Privacy Label User Testing Protocol
 
