@@ -72,16 +72,6 @@ These are route examples for the local project; the hosted deployment has not be
 
 To inspect locally, serve the `cctv-prototype` folder using `python3 -m http.server 7380`, then open `http://localhost:7380/prototype/`.
 
-## Figure captions
-
-**Figure 1.** My Figma Access History design, showing date selection, expandable viewing records and the route to a shared member's viewing permissions.
-
-**Figure 2.** Viewing-permission states in my Figma prototype: Original view, Hide faces, Hide whole person and No access. The previews illustrate proposed visibility rather than processing real camera footage.
-
-**Figure 3.** The web implementation of Access History within an eufy-inspired Events interface. Names, visit records and camera scenes are demonstration data.
-
-**Figure 4.** The selected-product presentation in the web prototype, connecting the demonstration interface with product details and official product links.
-
 ## Limitations and reflection
 
 The prototype does not connect to real cameras or authenticate a real eufy account. Browser-side permission changes and verification screens cannot establish production security. No real facial recognition, video anonymisation or deletion of household recordings is demonstrated.
